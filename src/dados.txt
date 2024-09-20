@@ -1,0 +1,10 @@
+num_veiculos = 2
+num_pontos = 15
+num_dias = 5
+demanda = 0,90,60,40,60,22,9,6,8,50,45,30,20,15,15
+tempo_maximo = 10
+capacidade_veiculo = 600,1200
+preco_gasolina = 6.29
+consumo_veiculo = 10,8
+manuntencao_veiculo = 0.35,0.4
+velocidade_media = 60

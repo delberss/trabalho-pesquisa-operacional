@@ -1,0 +1,11 @@
+Como Rodar o Projeto
+Preparar os Dados:
+
+Coloque os arquivos CSV com os dados na pasta data/.
+Executar o Código:
+
+Navegue até o diretório do projeto no terminal e execute o script principal:
+    python src/main.py
+Verificar Resultados:
+
+Após a execução, verifique o arquivo results/solution.csv para os resultados da otimização.
